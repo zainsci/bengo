@@ -1,0 +1,257 @@
+[
+  {
+    "char": "ァ",
+    "romaji": "a",
+    "type": "char"
+  },
+  {
+    "char": "ィ",
+    "romaji": "i",
+    "type": "char"
+  },
+  {
+    "char": "ウ",
+    "romaji": "u",
+    "type": "char"
+  },
+  {
+    "char": "エ",
+    "romaji": "e",
+    "type": "char"
+  },
+  {
+    "char": "オ",
+    "romaji": "o",
+    "type": "char"
+  },
+  {
+    "char": "カ",
+    "romaji": "ka",
+    "type": "char"
+  },
+  {
+    "char": "キ",
+    "romaji": "ki",
+    "type": "char"
+  },
+  {
+    "char": "ク",
+    "romaji": "ku",
+    "type": "char"
+  },
+  {
+    "char": "ケ",
+    "romaji": "ke",
+    "type": "char"
+  },
+  {
+    "char": "コ",
+    "romaji": "ko",
+    "type": "char"
+  },
+  {
+    "char": "サ",
+    "romaji": "sa",
+    "type": "char"
+  },
+  {
+    "char": "シ",
+    "romaji": "shi",
+    "type": "char"
+  },
+  {
+    "char": "ス",
+    "romaji": "su",
+    "type": "char"
+  },
+  {
+    "char": "セ",
+    "romaji": "se",
+    "type": "char"
+  },
+  {
+    "char": "ソ",
+    "romaji": "so",
+    "type": "char"
+  },
+  {
+    "char": "タ",
+    "romaji": "ta",
+    "type": "char"
+  },
+  {
+    "char": "チ",
+    "romaji": "chi",
+    "type": "char"
+  },
+  {
+    "char": "ツ",
+    "romaji": "tsu",
+    "type": "char"
+  },
+  {
+    "char": "テ",
+    "romaji": "te",
+    "type": "char"
+  },
+  {
+    "char": "ト",
+    "romaji": "to",
+    "type": "char"
+  },
+  {
+    "char": "ナ",
+    "romaji": "na",
+    "type": "char"
+  },
+  {
+    "char": "ニ",
+    "romaji": "ni",
+    "type": "char"
+  },
+  {
+    "char": "ヌ",
+    "romaji": "nu",
+    "type": "char"
+  },
+  {
+    "char": "ネ",
+    "romaji": "ne",
+    "type": "char"
+  },
+  {
+    "char": "ノ",
+    "romaji": "no",
+    "type": "char"
+  },
+  {
+    "char": "ハ",
+    "romaji": "ha",
+    "type": "char"
+  },
+  {
+    "char": "ヒ",
+    "romaji": "hi",
+    "type": "char"
+  },
+  {
+    "char": "フ",
+    "romaji": "fu",
+    "type": "char"
+  },
+  {
+    "char": "ヘ",
+    "romaji": "he",
+    "type": "char"
+  },
+  {
+    "char": "ホ",
+    "romaji": "ho",
+    "type": "char"
+  },
+  {
+    "char": "マ",
+    "romaji": "ma",
+    "type": "char"
+  },
+  {
+    "char": "ミ",
+    "romaji": "mi",
+    "type": "char"
+  },
+  {
+    "char": "ム",
+    "romaji": "mu",
+    "type": "char"
+  },
+  {
+    "char": "メ",
+    "romaji": "me",
+    "type": "char"
+  },
+  {
+    "char": "モ",
+    "romaji": "mo",
+    "type": "char"
+  },
+  {
+    "char": "ヤ",
+    "romaji": "ya",
+    "type": "char"
+  },
+  {
+    "char": "",
+    "romaji": "",
+    "type": null
+  },
+  {
+    "char": "ユ",
+    "romaji": "yu",
+    "type": "char"
+  },
+  {
+    "char": "",
+    "romaji": "",
+    "type": null
+  },
+  {
+    "char": "ヨ",
+    "romaji": "yo",
+    "type": "char"
+  },
+  {
+    "char": "ラ",
+    "romaji": "ra",
+    "type": "char"
+  },
+  {
+    "char": "リ",
+    "romaji": "ri",
+    "type": "char"
+  },
+  {
+    "char": "ル",
+    "romaji": "ru",
+    "type": "char"
+  },
+  {
+    "char": "レ",
+    "romaji": "re",
+    "type": "char"
+  },
+  {
+    "char": "ロ",
+    "romaji": "ro",
+    "type": "char"
+  },
+  {
+    "char": "ワ",
+    "romaji": "wa",
+    "type": "char"
+  },
+  {
+    "char": "",
+    "romaji": "",
+    "type": null
+  },
+  {
+    "char": "",
+    "romaji": "",
+    "type": null
+  },
+  {
+    "char": "",
+    "romaji": "",
+    "type": null
+  },
+  {
+    "char": "ヲ",
+    "romaji": "",
+    "type": null
+  },
+  {
+    "char": "ン",
+    "romaji": "n",
+    "type": "char"
+  }
+]
