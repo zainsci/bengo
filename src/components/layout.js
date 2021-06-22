@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
           </div>
         </header>
 
-        <main className="flex flex-col items-center justify-center w-full flex-1 text-center h-full py-20">
+        <main className="container mx-auto px-20 py-20 flex flex-col items-center justify-center flex-1 w-full h-full text-center">
           {children}
         </main>
 
