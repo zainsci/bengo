@@ -1,13 +1,13 @@
-import React from "react"
-import Link from "next/link"
-import Head from "next/head"
+import React from "react";
+import Link from "next/link";
+import Head from "next/head";
 
 const Layout = ({ children }) => {
   return (
     <>
       <Head>
         <title>BENGO - Learn Hiragana & Katakana</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Roboto&display=swap"
@@ -58,7 +58,7 @@ const Layout = ({ children }) => {
         </footer>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
