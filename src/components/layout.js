@@ -1,6 +1,6 @@
-import React from "react";
-import Link from "next/link";
-import Head from "next/head";
+import React from "react"
+import Link from "next/link"
+import Head from "next/head"
 
 const Layout = ({ children }) => {
   return (
@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
         />
       </Head>
 
-      <div className="flex flex-col justify-center items-center min-h-screen mt-20">
+      <div className="flex flex-col justify-center items-center min-h-screen pt-20">
         <header className="fixed top-0 left-0 right-0 bg-white border-b-2 border-gray-200">
           <div className="container mx-auto">
             <div className="px-2 py-4 flex justify-between items-center">
@@ -58,7 +58,7 @@ const Layout = ({ children }) => {
         </footer>
       </div>
     </>
-  );
-};
+  )
+}
 
-export default Layout;
+export default Layout

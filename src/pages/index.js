@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 export default function Home() {
   return (
     <Layout>
-      <div className="container">
+      <div className="container -mt-20">
         <div className="grid grid-cols-2">
           <div
             style={{ fontSize: "20rem" }}
