@@ -10,7 +10,7 @@ const HiraganaChar = () => {
 
   useEffect(() => {
     kanaID && syllabary
-      ? fetch(`/assets/${syllabary}/${kanaID}.json`)
+      ? fetch(`/bengo/assets/${syllabary}/${kanaID}.json`)
           .then((res) => res.json())
           .then((data) => setKana(data))
       : null

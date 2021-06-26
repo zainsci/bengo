@@ -17,7 +17,7 @@ const Syllabary = () => {
 
   useEffect(() => {
     syllabary
-      ? fetch(`/assets/${syllabary}.json`)
+      ? fetch(`/bengo/assets/${syllabary}.json`)
           .then((res) => res.json())
           .then((data) => setKanaList(data))
       : null
