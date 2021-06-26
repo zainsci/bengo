@@ -34,7 +34,7 @@ const Contact = () => {
             just leave a message.
           </p>
           <p className="mb-4 text-left text-white text-2xl">
-            And if you are a developer and can help in anyway improving this
+            And if you are a developer and can help in any way improving this
             website you can do so by contributing on{" "}
             <a
               href="https://github.com/zainsci/bengo"
@@ -43,7 +43,7 @@ const Contact = () => {
               className="text-white hover:underline"
             >
               GitHub.com
-            </a>
+            </a>{" "}
             This website was created using NextJs and TailwindCSS and the source
             code for it can be found on{" "}
             <a
