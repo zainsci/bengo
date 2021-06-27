@@ -7,7 +7,7 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
-      sans: ["Oswald", "sans-serif"],
+      sans: ["Poppins", "sans-serif"],
       display: ["Noto Sans JP", "sans-serif"],
     },
     extend: {},
